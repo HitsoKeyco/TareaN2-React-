@@ -1,0 +1,1 @@
+Se pinto un JSON post y se le dio un estado Hide / Show.
