@@ -15,8 +15,8 @@ const PostCard = () => {
     <div>
       <article>
       <h1>{postRandom.id}</h1>
-      <h3>{postRandom.title}</h3>
-      <h2>{postRandom.body}</h2>      
+      <h2>{postRandom.title}</h2>
+      <h3>{postRandom.body}</h3>      
       </article>
       <div className="buttonPost">
       <button onClick={ handRandomPost }>Random Post</button>
